@@ -1,0 +1,117 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+'b
+	/home/pi/bin/
+	..
+1678025638
+'h
+	/home/pi/
+	..
+1678025638
+
+# Bookmarks:
+
+# TUI:
+ar
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/pi
+	downloads
+2
+d/home/pi/downloads
+	..
+0
+d/home/pi
+	downloads
+2
+d/home/pi/downloads
+	..
+0
+d/home/pi
+	bin
+1
+d/home/pi/bin
+	..
+0
+d/home/pi
+	downloads
+2
+d/home/pi/downloads
+	..
+0
+d/home/pi
+	downloads
+2
+d
+
+# Right window history (oldest to newest):
+D/home/pi
+	bin
+1
+D/home/pi/bin
+	raspi-temp.sh
+9
+D/home/pi
+	bin
+1
+D/home
+	pi
+1
+D/home/pi
+	bin
+1
+D/home/pi/bin
+	..
+0
+D/home/pi
+	downloads
+2
+D/home/pi/downloads
+	..
+0
+D/home/pi
+	bin
+1
+D/home/pi/bin
+	firefox-user-prefs.sh
+6
+D
+
+# Command line history (oldest to newest):
+:h
+:q
+
+# Search history (oldest to newest):
+
+# Prompt history (oldest to newest):
+
+# Local filter history (oldest to newest):
+
+# Registers:
+""/home/pi/.local/share/vifm/Trash/000_wordle.sh
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+t/home/pi/.local/share/vifm/Trash/000_warp-drive.sh
+	/home/pi/downloads/warp-drive.sh
+t/home/pi/.local/share/vifm/Trash/000_wordle.sh
+	/home/pi/downloads/wordle.sh
+
+# State:
+f
+i1
+[.1
+[F
+F
+I1
+].1
+]F
+s0
