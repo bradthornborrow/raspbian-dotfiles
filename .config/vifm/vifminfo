@@ -80,8 +80,8 @@ D/home/pi
 	bin
 1
 D/home/pi/bin
-	firefox-user-prefs.sh
-6
+	crontab
+4
 D
 
 # Command line history (oldest to newest):
